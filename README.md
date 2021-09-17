@@ -1,19 +1,19 @@
-# PyBer_Analysis
+# PyBer Analysis
 ## Overview of the Analysis
 For this analysis, Python Scripts were used to perform an exploratory analysis of Pyber ridership data. Using Matplotlib and Pandas, various data frames and visuals were created to develop insights regarding PyBer's service line. Using these insights, PyBer plans to improve affordability and accesibility for underpriviledged areas. 
 
 ## Results
 Three city types were compared for this analysis: Urban, Suburban, and Rural. Additionally, ridership data can be analyzed based on three metrics given to us in the data sets: Ride Count, Driver Count, and Fare Amount.
 
-A table summarizing the results can be seen below:
+A table summarizing the results can be seen below:<br>
 ![PyBerSummaryTable](PyBerSummaryTable.PNG)
-<br>Figure 1
+<br>Figure 1: Summary Table of Ridership Data.
 
 Figure 1 shows that Pyber is most used in urban areas and least used in rural areas since it has the highest amount of total rides and lowest amount of total rides in urban areas and rural areas, respectively.. Additionally, Pyber has its highest number of drivers in urban areas and lowest number of drivers in rural areas. However, the average fare per ride and the average fare per driver are the lowest in urban areas and the highest in rural areas.
 
-Additionally, we are focusing on how fares may change by city type per the course of the year. In this analysis, we are focusing on the time between January and April of 2019.
+Additionally, we are focusing on how fares may change by city type per the course of the year. In this analysis, we are focusing on the time between January and April of 2019.<br>
 ![Pyber_fare_summary.png](PyBer_fare_summary.png)
-<br>Figure 2
+<br>Figure 2: Line Graph of Ridership Data by City Typre from January to April.
  
  Per Figure 2, the total fare amount remains relatively consistent throughout the year. However, urban and suburban areas plummet at the beginning of April.
 
