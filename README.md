@@ -7,13 +7,13 @@ Three city types were compared for this analysis: Urban, Suburban, and Rural. Ad
 
 A table summarizing the results can be seen below:
 ![PyBerSummaryTable](PyBerSummaryTable.PNG)
-Figure 1
+<br>Figure 1
 
 Figure 1 shows that Pyber is most used in urban areas and least used in rural areas since it has the highest amount of total rides and lowest amount of total rides in urban areas and rural areas, respectively.. Additionally, Pyber has its highest number of drivers in urban areas and lowest number of drivers in rural areas. However, the average fare per ride and the average fare per driver are the lowest in urban areas and the highest in rural areas.
 
 Additionally, we are focusing on how fares may change by city type per the course of the year. In this analysis, we are focusing on the time between January and April of 2019.
 ![Pyber_fare_summary.png](PyBer_fare_summary.png)
-Figure 2
+<br>Figure 2
  
  Per Figure 2, the total fare amount remains relatively consistent throughout the year. However, urban and suburban areas plummet at the beginning of April.
 
